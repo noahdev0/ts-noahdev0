@@ -1,6 +1,8 @@
 ## 🚀 Quick Start
 
-### Install with the npm Global Package
+After cloning 
+
+### Install with In the project file terminal
 
 ```bash
 $ npm install -g ts-noahdev0
