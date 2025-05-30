@@ -1,0 +1,59 @@
+{
+  "name": "ts-noahdev0",
+  "version": "10.2.1",
+  "description": "Quick and Easy TypeScript Express Starter",
+  "author": "noahdev0 <noahbenzina@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "express",
+    "mongoose",
+    "typeorm",
+    "prisma",
+    "graphql",
+    "typegoose",
+    "routing-controllers",
+    "node-postgres",
+    "logger",
+    "swagger",
+    "jest",
+    "nodemon",
+    "pm2",
+    "eslint",
+    "prettier",
+    "docker",
+    "docker-compose",
+    "nginx",
+    "swc"
+  ],
+  "main": "bin/cli.js",
+  "bin": {
+    "ts-noahdev0": "bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "edit-json-file": "^1.8.1",
+    "gitignore": "^0.7.0",
+    "inquirer": "^8.2.6",
+    "ncp": "^2.0.0",
+    "ora": "^5.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">= 16.0.0",
+    "npm": ">= 8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahdev0/ts-noahdev0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noahbenzina/ts-noahdev0/issues"
+  },
+  "homepage": "https://github.com/noahdev0/ts-noahdev0#readme"
+}
